@@ -1,3 +1,3 @@
 # Steven-Machuca-Silva-Webpage
 
-https://stevenmachuca144.github.io/Steven-Machuca-Silva-WebPage/index.html
+https://stevenmachuca144.github.io/Steven-Machuca-Silva-Webpage/index.html
