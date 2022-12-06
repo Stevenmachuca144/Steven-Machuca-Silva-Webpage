@@ -1,1 +1,7 @@
-@import url(../blocks/header/__list/header__list.css);
+@import url(../pages/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__name/header__name.css);
+@import url(../blocks/header/main-illustration/header__main-illustration.css);
+@import url(../blocks/header/__square/header__square.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
