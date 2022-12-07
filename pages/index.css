@@ -7,3 +7,5 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/introduction/introduction.css);
+@import url(../blocks/introduction/__heading/introduction__heading.css);
+@import url(../blocks/introduction/__JS/introduction__JS.css);
