@@ -1,6 +1,7 @@
 .introduction__heading {
+  font-weight: bold;
   width: 60%;
   text-align: center;
   font-size: 50px;
-  margin: auto;
+  margin: 0px auto 130px auto;
 }
